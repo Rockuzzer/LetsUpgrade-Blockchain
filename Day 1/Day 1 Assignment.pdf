@@ -1,0 +1,29 @@
+Day 1 Assignment
+
+Q1. What is your understanding of Blockchain?
+Ans: As per my understanding Blockchain is just that, a chain of block that contains information. Blockchain can be defined as a combination of two techniques of distributed databases and cryptography. Cryptography provides a unique fingerprint for each data which provides security. Hence it is very secured. Since the data is distributed and not localized on a single computer, it provides data safety too. 
+
+Q2. What is the core problem Blockchain trying to solve?
+Ans: The core problems that blockchain solves are:
+A)	Decentralization of databases.
+B)	Security of data.
+C)	Authentication.
+
+Q3. What are the few features which Blockchain will give u?
+Ans: Features blockchain will provide:
+•	Pee-to-Peer Network
+•	Enhanced Security
+•	Tamper Proof
+•	Data Transparency
+•	Immutable
+•	Decentralized System
+
+Q4. What all things does a Block Contain?
+Ans: A block contains of the following components:
+•	Block magic number.
+•	Previous block signature.
+•	Transaction records.
+•	Mining Key.
+
+Q5. How is the verifiability of Blockchain is been attained?
+Ans: The verifiability of Blockchain is attained by a hash of the previous block. You can compare a hash to a fingerprint. This hash identifies a block and all of it’s contents which is always unique just as fingerprint. Once a block is created, it’s hash is being calculated. Changing something inside the block will cause the hash to change. So in other words hashes are very useful when you want to detect changes in the blocks.
